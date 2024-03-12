@@ -1,6 +1,6 @@
 ### Hi there ✋ I am Ramlakshmi Munakala 
 👩‍💻 I am a Software Quality Assurance Tester, QA Automation Tester, Manual Tester <br/>
-😊I have 3plus years of work experience in both with  manual and autumation testing <br/>
+😊I have 3plus years of work experience in both with  manual and automation testing <br/>
 ♟I have working experince in different frameworks such as Data driven Testing, Hybrid testing, Cucumber testing, TestNG framework<br/>
 
 
