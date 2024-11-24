@@ -1,6 +1,6 @@
 ### Hi there ✋ I am Ramlakshmi Munakala 
 👩‍💻 I am a Software Quality Assurance Tester, QA Automation Tester, Manual Tester <br/>
-😊I have 3plus years of work experience in both with  manual and automation testing <br/>
+😊I have 5plus years experience as a software Quality assurance tester with both manual testing and automation experience <br/>
 ♟I have working experince in different frameworks such as Data driven Testing, Hybrid testing, Cucumber testing, TestNG framework<br/>
 
 
@@ -9,13 +9,13 @@
 --Cucumber,  Blackbox testing,<br/>
 --Functional Testing, Regression Testing,<br/>
 --Agile Methodologies, Test Management Tool -Jira ,<br/>
---Zephyr-for test case management, API Testing,<br/>
---SQL Basics,Jenkins CI/CD Tool, Postman , Maven Build Tool.<br/>
+--Zephyr-for test case management,  API Testing tools such as Postman for Backend testing,<br/>
+--SQL for Database testing,Jenkins CI/CD Tool, Postman , Maven Build Tool.<br/>
 
 ➿I am currently Looking for a QA Automation Tester/ QA Tester Position .<br/>
  I am a Immediate joiner<br/>
 
-♟ I also have an experince in automation in automating Demo Websites such as Swag labs, OpenCart and login page automation of Amazon Website<br/>
+♟ I have done some projects  in automation in automating Demo Websites such as Swag labs, OpenCart and login page automation of Amazon Website<br/>
 
 
 ![Ramalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=munakalaramalakshmi&show_icons=true&theme=radical)
