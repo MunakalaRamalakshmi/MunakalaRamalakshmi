@@ -11,6 +11,8 @@
 --Agile Methodologies, Test Management Tool -Jira ,<br/>
 --Zephyr-for test case management,  API Testing tools such as Postman for Backend testing,<br/>
 --SQL for Database testing,Jenkins CI/CD Tool, Postman , Maven Build Tool.<br/>
+--Git as a Version management tool
+
 
 ➿I am currently Looking for a QA Automation Tester/ QA Tester Position .<br/>
  I am a Immediate joiner<br/>
