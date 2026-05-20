@@ -100,9 +100,9 @@ Strong ability to bridge the gap between **development and QA engineering**, ens
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MunakalaRamalakshmi&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MunakalaRamalakshmi/&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MunakalaRamalakshmi&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MunakalaRamalakshmi/&layout=compact&theme=dark)
 
 ---
 
