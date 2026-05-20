@@ -99,7 +99,6 @@ Strong ability to bridge the gap between **development and QA engineering**, ens
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your GitHub ID
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MunakalaRamalakshmi&show_icons=true&theme=dark)
 
@@ -129,8 +128,8 @@ Actively focusing on roles such as:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: http://www.linkedin.com/in/rmunakala/
+- 📧 Email: ramalakshmimunakala96@gmail.com
 - 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
