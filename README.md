@@ -1,107 +1,142 @@
-# 👋 Hi, I'm RamaLakshmi Munakala
+# 🚀 RamaLakshmi Munakala | SDET Engineer | Java Backend Developer
 
-🚀 Software Developer | 🧪 QA Automation Engineer | ☁️ SDET | 🌱 Backend Developer
-
----
-
-## 👩‍💻 About Me
-
-I am a **Software Developer and QA Automation Engineer with 5+ years of experience**, specializing in building scalable backend systems and ensuring high-quality software through automation testing.
-
-I work across both **development and testing domains**, which helps me design better systems and test them effectively.
-
-- 🔍 Strong experience in **Manual & Automation Testing**
-- ☕ Backend development using **Java & Spring Boot**
-- ☁️ Experience building **Microservices-based architectures**
-- 🧪 Expertise in **Selenium, Playwright, TestNG, Cucumber**
-- 🔗 API Testing using **Postman & Rest Assured**
-- 🗄️ Strong SQL & database validation skills
-- ⚙️ CI/CD with **Jenkins, Maven, GitHub Actions**
-- 🧠 Agile/Scrum environment experience
+📍 United States | 💼 Open to SDET / Backend / Automation Roles  
+💡 Java | Spring Boot | Microservices | Selenium | API Automation | CI/CD
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Professional Summary
 
-### 💻 Programming & Backend
-- Java
-- Spring Boot
-- Microservices
-- RESTful APIs
-- SQL
+Results-driven **Software Development Engineer in Test (SDET)** and **Java Backend Developer** with **5+ years of experience** across full SDLC and STLC.
 
-### 🧪 Testing & Automation
-- Selenium WebDriver
-- Playwright
-- TestNG
-- Cucumber (BDD)
-- Katalon Studio
+Specialized in building:
+- Scalable **automation frameworks**
+- Robust **backend REST APIs using Spring Boot**
+- Reliable **microservices-based systems**
+- High-quality test automation solutions integrated into CI/CD pipelines
 
-### 🔌 API Testing
-- Postman
-- Rest Assured
-- SoapUI
-
-### ⚙️ DevOps & Tools
-- Git & GitHub
-- Maven
-- Jenkins
-- Docker (basic understanding / optional)
-- JIRA
+Strong ability to bridge the gap between **development and QA engineering**, ensuring both **code quality and system reliability**.
 
 ---
 
-## 🧩 Architecture & Concepts
+## 🔥 Core Expertise
 
+### 💻 Backend Development
+- Java (Core + Advanced OOPs)
+- Spring Boot REST APIs
 - Microservices Architecture
-- Monolithic vs Microservices Design
-- REST API Design Principles
-- Design Patterns (Singleton, Factory, POM)
-- SDLC / STLC
-- Agile Methodology
+- RESTful API Design
+- Exception Handling & Logging
+- Basic System Design
 
----
-
-## 📁 Featured Projects
-
-### 🔹 Spring Boot Microservices Project
-- Built REST APIs using Spring Boot
-- Implemented service-to-service communication
-- Designed scalable microservices architecture
-- Integrated logging and exception handling
-
-### 🔹 Selenium Automation Framework (Java + TestNG)
-- Data-driven framework using Maven
+### 🧪 SDET / Automation Engineering
+- Selenium WebDriver (UI Automation)
+- Playwright (Modern Automation)
+- TestNG / JUnit Frameworks
+- Cucumber BDD Framework
 - Page Object Model (POM)
+- Data-Driven & Hybrid Framework Design
+
+### 🔌 API Testing & Validation
+- Rest Assured (Automation)
+- Postman (Manual + Collection Runner)
+- Schema & Contract Testing
+- JSON/XML Validation
+- Backend Integration Testing
+
+### ⚙️ DevOps & CI/CD
+- Jenkins Pipeline Integration
+- Maven Build Lifecycle
+- Git / GitHub Version Control
+- CI/CD Test Execution Flow
+- Basic Docker Understanding
+
+---
+
+## 🧠 Architecture & Engineering Concepts
+
+- Microservices vs Monolith Architecture
+- SOLID Principles
+- Design Patterns (Singleton, Factory, Builder)
+- Test Pyramid Strategy
+- API First Design
+- SDLC / STLC / Agile Scrum
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 Spring Boot Microservices System (Production Style)
+- Designed REST-based microservices using Spring Boot
+- Implemented service communication via REST APIs
+- Centralized exception handling and logging
+- Built scalable backend architecture with modular design
+
+---
+
+### 🔹 Enterprise Selenium Automation Framework
+- Built hybrid framework using Selenium + TestNG + Maven
+- Implemented Page Object Model (POM) design pattern
 - Integrated with Jenkins for CI execution
-
-### 🔹 API Automation Framework
-- Built using Rest Assured
-- Validates response structure, schema, and data integrity
-- Supports regression testing of APIs
-
-### 🔹 Job Automation System (SDET Project)
-- Selenium + Jsoup based job scraper
-- Extracts and filters job listings
-- Matches job descriptions with user profile keywords
+- Enabled parallel execution and reporting
 
 ---
 
-## 🎯 Currently Working On
-
-- Building **real-world Spring Boot microservices projects**
-- Strengthening **SDET Level 3/4 interview skills**
-- Advanced **API automation frameworks**
-- Enhancing **Playwright + CI/CD pipelines**
-- Freelance QA + backend portfolio projects
+### 🔹 API Automation Framework (Rest Assured)
+- Automated REST API testing using Rest Assured
+- Validated status codes, schemas, and response payloads
+- Integrated regression suite for CI pipeline execution
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 LinkedIn: http://www.linkedin.com/in/rmunakala/ 
-- 📧 Email: ramalakshmimunakala96@gmail.com 
-- 🧑‍💻 GitHub: https://github.com/MunakalaRamalakshmi 
+### 🔹 Intelligent Job Automation System
+- Built Java + Selenium + Jsoup-based scraper
+- Extracts job listings from multiple portals
+- Performs keyword-based job matching logic
+- Helps in automated job filtering and ranking
 
 ---
 
+## 📊 GitHub Stats
+
+> Replace `YOUR_USERNAME` with your GitHub ID
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MunakalaRamalakshmi&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MunakalaRamalakshmi&layout=compact&theme=dark)
+
+---
+
+## 🎯 Career Focus
+
+Actively focusing on roles such as:
+- SDET (Level 2 / 3 / 4)
+- Java Backend Developer (Spring Boot)
+- Automation Test Engineer
+- API Testing / QA Engineer
+
+---
+
+## 🚀 Current Learning & Growth
+
+- Advanced Spring Boot Microservices (Production Patterns)
+- Playwright Automation Frameworks
+- Scalable Test Architecture Design
+- System Design for Backend Engineering
+- CI/CD Optimization for QA Pipelines
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- 📧 Email: your.email@example.com
+- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## ⚡ Key Strength
+
+> I don’t just test software — I understand how it is built, deployed, and scaled, which allows me to deliver **engineering-quality testing and backend solutions**.
+
+---
