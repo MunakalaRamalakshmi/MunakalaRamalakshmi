@@ -1,48 +1,107 @@
-### Hi there ✋ I am Ramlakshmi Munakala 
-👩‍💻 I am a Software Quality Assurance Tester, QA Automation Tester, Manual Tester <br/>
-😊I have 5plus years experience as a software Quality assurance tester with both manual testing and automation experience <br/>
-♟I have working experince in different frameworks such as Data driven Testing, Hybrid testing, Cucumber testing, TestNG framework<br/>
+# 👋 Hi, I'm RamaLakshmi Munakala
 
-
-🤹‍♀️**Skills:** <br/>
---Selenium , Java, TestNG,<br/>
---Cucumber,  Blackbox testing,<br/>
---Functional Testing, Regression Testing,<br/>
---Agile Methodologies, Test Management Tool -Jira ,<br/>
---Zephyr-for test case management,  API Testing tools such as Postman for Backend testing,<br/>
---SQL for Database testing,Jenkins CI/CD Tool, Postman , Maven Build Tool.<br/>
---Git as a Version management tool
-
-
-➿I am currently Looking for a QA Automation Tester/ QA Tester Position .<br/>
- I am a Immediate joiner<br/>
-
-♟ I have done some projects  in automation in automating Demo Websites such as Swag labs, OpenCart and login page automation of Amazon Website<br/>
-
-
-![Ramalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=munakalaramalakshmi&show_icons=true&theme=radical)
-# 💫 About Me:
-Hi there, <br>I am Ramalakshmi Munakala<br>I have experience in testing Web Applications using Manual and Automation Methods.<br>Currently I am looking for job as a Software QA Tester/ QA Automation tester/ SDET role .<br> I am on H4 EAD and can start immediately. I'm open to remote contract roles anywhere<br> in USA and hybrid roles near to Dallas,TX.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RamaLakshmiMunakala) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=munakalaramalakshmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=munakalaramalakshmi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=munakalaramalakshmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Software Developer | 🧪 QA Automation Engineer | ☁️ SDET | 🌱 Backend Developer
 
 ---
-[![](https://visitcount.itsvg.in/api?id=munakalaramalakshmi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
 
+I am a **Software Developer and QA Automation Engineer with 5+ years of experience**, specializing in building scalable backend systems and ensuring high-quality software through automation testing.
 
+I work across both **development and testing domains**, which helps me design better systems and test them effectively.
 
-<!---
-![Ramalaklshmi GitHub stats](https://github-readme-stats.vercel.app/api?username=munakalaramalakshmi
-&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage).
---->
+- 🔍 Strong experience in **Manual & Automation Testing**
+- ☕ Backend development using **Java & Spring Boot**
+- ☁️ Experience building **Microservices-based architectures**
+- 🧪 Expertise in **Selenium, Playwright, TestNG, Cucumber**
+- 🔗 API Testing using **Postman & Rest Assured**
+- 🗄️ Strong SQL & database validation skills
+- ⚙️ CI/CD with **Jenkins, Maven, GitHub Actions**
+- 🧠 Agile/Scrum environment experience
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Backend
+- Java
+- Spring Boot
+- Microservices
+- RESTful APIs
+- SQL
+
+### 🧪 Testing & Automation
+- Selenium WebDriver
+- Playwright
+- TestNG
+- Cucumber (BDD)
+- Katalon Studio
+
+### 🔌 API Testing
+- Postman
+- Rest Assured
+- SoapUI
+
+### ⚙️ DevOps & Tools
+- Git & GitHub
+- Maven
+- Jenkins
+- Docker (basic understanding / optional)
+- JIRA
+
+---
+
+## 🧩 Architecture & Concepts
+
+- Microservices Architecture
+- Monolithic vs Microservices Design
+- REST API Design Principles
+- Design Patterns (Singleton, Factory, POM)
+- SDLC / STLC
+- Agile Methodology
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 Spring Boot Microservices Project
+- Built REST APIs using Spring Boot
+- Implemented service-to-service communication
+- Designed scalable microservices architecture
+- Integrated logging and exception handling
+
+### 🔹 Selenium Automation Framework (Java + TestNG)
+- Data-driven framework using Maven
+- Page Object Model (POM)
+- Integrated with Jenkins for CI execution
+
+### 🔹 API Automation Framework
+- Built using Rest Assured
+- Validates response structure, schema, and data integrity
+- Supports regression testing of APIs
+
+### 🔹 Job Automation System (SDET Project)
+- Selenium + Jsoup based job scraper
+- Extracts and filters job listings
+- Matches job descriptions with user profile keywords
+
+---
+
+## 🎯 Currently Working On
+
+- Building **real-world Spring Boot microservices projects**
+- Strengthening **SDET Level 3/4 interview skills**
+- Advanced **API automation frameworks**
+- Enhancing **Playwright + CI/CD pipelines**
+- Freelance QA + backend portfolio projects
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: http://www.linkedin.com/in/rmunakala/ 
+- 📧 Email: ramalakshmimunakala96@gmail.com 
+- 🧑‍💻 GitHub: https://github.com/MunakalaRamalakshmi 
+
+---
+
