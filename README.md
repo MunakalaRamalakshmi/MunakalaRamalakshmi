@@ -1,4 +1,4 @@
-# 🚀 RamaLakshmi Munakala | SDET Engineer | Java Backend Developer
+# 🚀 RamaLakshmi Munakala | SDE Engineer | Java Backend Developer
 
 📍 United States | 💼 Open to SDET / Backend / Automation Roles  
 💡 Java | Spring Boot | Microservices | Selenium | API Automation | CI/CD
