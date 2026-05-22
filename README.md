@@ -1,4 +1,4 @@
-# 🚀 RamaLakshmi Munakala | SDE Engineer | Java Backend Developer
+# 🚀 Lakshmi M | Backend Software Engineer | Java Backend Developer
 
 📍 United States | 💼 Open to SDET / Backend / Automation Roles  
 💡 Java | Spring Boot | Microservices | Selenium | API Automation | CI/CD
@@ -119,8 +119,11 @@ Actively focusing on roles such as:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: http://www.linkedin.com/in/rmunakala/
-- 📧 Email: ramalakshmimunakala96@gmail.com
+---
+---
+---
+- 💼 LinkedIn:https://www.linkedin.com/in/lakshmi-m-07707b411/
+- 📧 Email: lakshmimunakala17@gmail.com
 - 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
