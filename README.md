@@ -1,4 +1,4 @@
-# 🚀 Hi Iam Lakshmi M 
+# 🚀 Hi I am Lakshmi M 
 
 ## Senior Java Backend Developer | 6+ Years of Experience
 
