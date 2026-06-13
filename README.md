@@ -76,8 +76,8 @@ Microservices-based application demonstrating service discovery, API gateway, an
 
 ## 📫 Contact
 
-- 💼 LinkedIn:https://www.linkedin.com/in/lakshmi-m-07707b411/
-- 📧 Email: lakshmimunakala17@gmail.com
+- 💼 LinkedIn:[https://www.linkedin.com/in/lakshmi-m-07707b411/](https://www.linkedin.com/in/rmunakala/)
+- 📧 Email: ramalakshmimunakala96@gmail.com
 - 🧑‍💻 GitHub: https://github.com/MunakalaRamalakshmi/MunakalaRamalakshmi
 - 
 
